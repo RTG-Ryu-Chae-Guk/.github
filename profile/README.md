@@ -55,24 +55,30 @@
   </table>
 </div>
 
-## 📺 시연 영상
+### 🎬 시연 영상
 
-<table>
-  <tr>
-    <td align="center">
-      <video src="videos/main.mp4" controls width="200"></video><br/>메인화면
-    </td>
-    <td align="center">
-      <video src="videos/login.mp4" controls width="200"></video><br/>로그인
-    </td>
-    <td align="center">
-      <video src="videos/home.mp4" controls width="200"></video><br/>홈 (메인)
-    </td>
-    <td align="center">
-      <video src="videos/location_toggle.mp4" controls width="200"></video><br/>위치 기능 on/off
-    </td>
-  </tr>
-</table>
+
+
+| 스플래시 | 로그인 | 홈 (메인) | 위치 기능 |
+|:---:|:---:|:---:|:---:|
+| [스플래시 시연](https://github.com/user-attachments/assets/719ee01d-7e0e-4b10-a20d-dd082f24436f) | [로그인 시연](https://github.com/user-attachments/assets/bbb) | [홈 시연](https://github.com/user-attachments/assets/ccc) | [위치 기능](https://github.com/user-attachments/assets/ddd) |
+
+| 영상 메인 | 영상 상세 | 신고 기능 | 타 유저 프로필 |
+|:---:|:---:|:---:|:---:|
+| [영상 메인](https://github.com/user-attachments/assets/eee) | [상세 보기](https://github.com/user-attachments/assets/fff) | [신고 기능](https://github.com/user-attachments/assets/ggg) | [유저 프로필](https://github.com/user-attachments/assets/hhh) |
+
+| 공지사항 | 검색 기능 | 알림 화면 | 좋아요 누르기 |
+|:---:|:---:|:---:|:---:|
+| [공지사항](https://github.com/user-attachments/assets/iii) | [검색 기능](https://github.com/user-attachments/assets/jjj) | [알림 화면](https://github.com/user-attachments/assets/kkk) | [좋아요](https://github.com/user-attachments/assets/lll) |
+
+| 댓글 작성 | 유저 설정 | 영상 공유 | AI 검색 |
+|:---:|:---:|:---:|:---:|
+| [댓글 작성](https://github.com/user-attachments/assets/mmm) | [유저 설정](https://github.com/user-attachments/assets/nnn) | [영상 공유](https://github.com/user-attachments/assets/ooo) | [AI 검색](https://github.com/user-attachments/assets/ppp) |
+
+| AI 답변 | 추천 영상 | 내 활동 | 로그아웃 |
+|:---:|:---:|:---:|:---:|
+| [AI 답변](https://github.com/user-attachments/assets/qqq) | [추천 영상](https://github.com/user-attachments/assets/rrr) | [내 활동](https://github.com/user-attachments/assets/sss) | [로그아웃](https://github.com/user-attachments/assets/ttt) |
+
 ### 화면 구성(요약)
 |시작화면|
 |:---:|
