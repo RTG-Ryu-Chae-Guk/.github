@@ -4,92 +4,170 @@
 <img src="https://user-images.githubusercontent.com/80824750/208554611-f8277015-12e8-48d2-b2cc-d09d67f03c02.png" width="400"/>
 <img src="https://user-images.githubusercontent.com/80824750/208554558-490845c9-959a-4823-9003-350ec4d221bf.png" width="400"/>
 
-### OrderFlow(한이음 프로젝트)✅
+### RCG(2025년 국토교통 데이터 활용경진대회)✅
 
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
-<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2024.03.01~2024.10.01-green?style=flat&logo=&logoColor=white" />]()
+<br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2025.04.15~2025.05.20-green?style=flat&logo=&logoColor=white" />]()
 
 </div> 
 
 ## 📝 소개
-전기차 충전소 종합 플랫폼 IOS/Android/Web version
+교통·상권·도시 데이터를 활용한 상권 분석 플랫
 
-기능
-- 가맹점 등록/관리
-- QR 및 일반 로그인
-- 관리자 로그인
-- 주문
-- 장바구니
-- 직원호출
-- 주문내역
-- 결제
-- 고객의 소리
-- 노래신청
-- 관리자 화면
-- 관리자 화면
+기능(간단)
+- 사업자 전용 익명게시망
+- 지도
+- AI분석
+- 상권 상세 데이터 조회
+- 문서화 및 다운로드
+- 실시간 기반 시각화 탭
 
 <br />
 
 ### 프로젝트 정보
 |요약|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%9A%94%EC%95%BD%EB%B3%B8.png?raw=true" width="100%"/>|
-
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C1.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C2.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C3.png?raw=true" width="100%"/>|
 <br />
-
-## 멘토
-|비씨카드(주)|
-|:---:|
-| ![](https://media.licdn.com/dms/image/v2/C5103AQEar9vcMFyBBg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516841143489?e=1746057600&v=beta&t=_hO1AASwbQtMw8c0ShhGrJz5yZGE9s14ciGxlqeAVRs)|
-|[길진세](https://www.linkedin.com/in/kiljinse/?originalSubdomain=kr)
-
-<br />
-
 
 ### 화면 구성(요약)
 |시작화면|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B4.png?raw=true" width="100%"/>|
 
 |시작화면2|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4(2).png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B43.png?raw=true" width="100%"/>|
 
-|가맹점 등록|
+|시작화면3|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.jpg?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B4%205.png?raw=true" width="100%"/>|
 
-|테이블연동|
+|AI BOT|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%ED%85%8C%EC%9D%B4%EB%B8%94%EC%97%B0%EB%8F%992.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot1.png?raw=true" width="100%"/>|
 
-|메인화면|
+|AI BOT2|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot2.png?raw=true" width="100%"/>|
 
-|장바구니|
+|AI BOT3|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot3.png?raw=true" width="100%"/>|
 
-|옵션주문|
+|AI BOT4|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%98%B5%EC%85%98%EC%A3%BC%EB%AC%B8.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot4.png?raw=true" width="100%"/>|
 
-|주문내역|
+|맵1|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%A3%BC%EB%AC%B8.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%A41.png?raw=true" width="100%"/>|
 
-|결제|
+|맵2|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EC%84%A0%EB%B6%88%EA%B2%B0%EC%A0%9C.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B52.png?raw=true" width="100%"/>|
 
-|고객의 소리|
+|맵3|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EA%B3%A0%EA%B0%9D%EC%9D%98%EC%86%8C%EB%A6%AC.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B53.png?raw=true" width="100%"/>|
 
-|노래신청|
+|맵4|
 |:---:|
-|<img src="https://github.com/24HF063orderflow/Image/blob/main/Main/%EB%85%B8%EB%9E%98%EC%8B%A0%EC%B2%AD.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B54.png?raw=true" width="100%"/>|
+
+|맵5|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B55.png?raw=true" width="100%"/>|
+
+|맵6|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B56.png?raw=true" width="100%"/>|
+
+|맵7|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B57.png?raw=true" width="100%"/>|
+
+|맵8|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B58.png?raw=true" width="100%"/>|
+
+|맵9|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B59.png?raw=true" width="100%"/>|
+
+|맵10|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B510.png?raw=true" width="100%"/>|
+
+|맵11|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B511.png?raw=true" width="100%"/>|
+
+|맵12|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B512.png?raw=true" width="100%"/>|
+
+|맵13|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B513.png?raw=true" width="100%"/>|
+
+|맵14|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B514.png?raw=true" width="100%"/>|
+
+|맵15|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B515.png?raw=true" width="100%"/>|
+
+|맵16|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B516.png?raw=true" width="100%"/>|
+
+|맵17|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B517.png?raw=true" width="100%"/>|
+
+|맵18|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B518.png?raw=true" width="100%"/>|
+
+|맵19|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B519.png?raw=true" width="100%"/>|
+
+|정보1|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%A0%95%EB%B3%B41.png?raw=true" width="100%"/>|
+
+|정보2|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%A0%95%EB%B3%B42.png?raw=true" width="100%"/>|
+
+|정보3|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%A0%95%EB%B3%B43.png?raw=true" width="100%"/>|
+
+|정보4|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%A0%95%EB%B3%B44.png?raw=true" width="100%"/>|
+
+|정보5|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%A0%95%EB%B3%B45.png?raw=true" width="100%"/>|
+
+|사업자인증|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B01.png?raw=true" width="100%"/>|
+
+|익명게시판1|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%BB%A4%EB%AE%A41.png?raw=true" width="100%"/>|
+
+|익명게시판2|
+|:---:|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EC%BB%A4%EB%AE%A42.png?raw=true" width="100%"/>|
 
 <br />
 
@@ -99,7 +177,6 @@
 ### Front-end
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/React.png?raw=true" width="80">
-  <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/ReactNative.png?raw=true" width="80">
 </div>
 
 <br />
@@ -130,5 +207,5 @@
 ## 💁‍♂️ 프로젝트 팀원
 |Backend/Frontend|Frontend|Backend|Backend|
 |:---:|:---:|:---:|:---:|
-| ![](https://avatars.githubusercontent.com/u/39736916?v=4)| ![](https://avatars.githubusercontent.com/u/60644352?v=4)| ![](https://avatars.githubusercontent.com/u/86972598?v=4)| ![](https://avatars.githubusercontent.com/u/73270553?v=4)
-|[이동국(App)](https://github.com/leedongguk)|[고성인(App/Web)](https://github.com/rhtjddls123)|[심보영](https://github.com/qhdudedi)|[한민서](https://github.com/1Min-seo)
+| ![](https://avatars.githubusercontent.com/u/39736916?v=4)| ![](https://avatars.githubusercontent.com/u/121941036?v=4)| ![](https://avatars.githubusercontent.com/u/170619611?v=4)|
+|[이동국](https://github.com/leedongguk)|[류승환](https://github.com/Federico-15)|[김채](https://github.com/chaeelin)|
