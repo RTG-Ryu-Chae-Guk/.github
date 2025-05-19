@@ -58,7 +58,7 @@
 ### 화면 구성(요약)
 |시작화면|
 |:---:|
-|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B4.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B4.png?raw=true" width="600"/>
 
 |시작화면2(AI검색)|
 |:---:|
