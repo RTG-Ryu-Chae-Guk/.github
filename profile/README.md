@@ -71,13 +71,13 @@
 |:---:|:---:|:---:|:---:|
 | [![상권 분석](https://github.com/user-attachments/assets/9a947067-7ae3-46c9-be56-780a81392143)](https://github.com/user-attachments/assets/f79e0bc5-0106-4da0-9b5f-02caef5050f4) | [![상권 로드뷰](https://github.com/user-attachments/assets/a5782810-1a12-4d72-b6b4-610f49fafe13)](https://github.com/user-attachments/assets/00f1a98e-4349-46b0-98b8-98d328b0706f) | [![상권 유동인구](https://github.com/user-attachments/assets/1cda4154-eafc-4df6-a0e6-a39d6d2d2aa5)](https://github.com/user-attachments/assets/0c6c9c3b-180b-4a50-a6e5-e49a6bba8c83) | [![상권 랭킹](https://github.com/user-attachments/assets/2692e374-5596-4e1b-b0dd-38391a06bf88)](https://github.com/user-attachments/assets/d8434bb9-9114-441a-8fd0-3bab3dfa6135) |
 
-| 댓글 작성 | 유저 설정 | 영상 공유 | AI 검색 |
+| CCTV | 상권 분석 콘텐츠 | 실거래가 조회 | 도로 교통 상태 |
 |:---:|:---:|:---:|:---:|
-| [댓글 작성](https://github.com/user-attachments/assets/mmm) | [유저 설정](https://github.com/user-attachments/assets/nnn) | [영상 공유](https://github.com/user-attachments/assets/ooo) | [AI 검색](https://github.com/user-attachments/assets/ppp) |
+| [![CCTV](https://github.com/user-attachments/assets/40758207-c064-47c8-a9ec-442563cc993c)](https://github.com/user-attachments/assets/6bea314f-0eea-4783-8bbc-d9f8917c392d) | [![상권 콘텐츠](https://github.com/user-attachments/assets/f42aa957-89dc-453a-8270-967415e97a78)](https://github.com/user-attachments/assets/0bce3283-3dee-4133-a135-8ada402c494b) | [![실거래가 조회](https://github.com/user-attachments/assets/6c9c6d70-c71d-449b-8cea-9e8793261c0d)](https://github.com/user-attachments/assets/aca6b0b1-d7f0-4959-87c3-e99d31485750) | [![도로 상태](https://github.com/user-attachments/assets/6570da21-248e-4a21-8e9e-03e59a7f81d5)](https://github.com/user-attachments/assets/07f3365a-242c-42da-970e-c3ce8df90998) |
 
-| AI 답변 | 추천 영상 | 내 활동 | 로그아웃 |
-|:---:|:---:|:---:|:---:|
-| [AI 답변](https://github.com/user-attachments/assets/qqq) | [추천 영상](https://github.com/user-attachments/assets/rrr) | [내 활동](https://github.com/user-attachments/assets/sss) | [로그아웃](https://github.com/user-attachments/assets/ttt) |
+| 사업자 인증 API | 사업자 전용 게시판 |
+|:---:|:---:|
+| [![사업자 인증](https://github.com/user-attachments/assets/5b3a3401-b037-451f-bdca-609f674ca1c1)](https://github.com/user-attachments/assets/28ac8f7f-ce5e-4c66-8b87-942e4dd6d3dc) | [![사업자 게시판](https://github.com/user-attachments/assets/7672d0e8-431e-49bb-92e4-eee82f4e067c)](https://github.com/user-attachments/assets/1f45b248-5519-4470-9cf8-c5190efa1d1a) |
 
 ### 화면 구성(요약)
 |시작화면|
