@@ -77,7 +77,7 @@
 
 | 사업자 인증 API | 사업자 전용 게시판 |
 |:---:|:---:|
-| [![사업자 인증](https://github.com/user-attachments/assets/5b3a3401-b037-451f-bdca-609f674ca1c1)](https://github.com/user-attachments/assets/28ac8f7f-ce5e-4c66-8b87-942e4dd6d3dc) | [![사업자 게시판](https://github.com/user-attachments/assets/7672d0e8-431e-49bb-92e4-eee82f4e067c)](https://github.com/user-attachments/assets/1f45b248-5519-4470-9cf8-c5190efa1d1a) |
+| [<img src="https://github.com/user-attachments/assets/5b3a3401-b037-451f-bdca-609f674ca1c1" width="300"/>](https://github.com/user-attachments/assets/28ac8f7f-ce5e-4c66-8b87-942e4dd6d3dc) | [<img src="https://github.com/user-attachments/assets/7672d0e8-431e-49bb-92e4-eee82f4e067c" width="300"/>](https://github.com/user-attachments/assets/1f45b248-5519-4470-9cf8-c5190efa1d1a) |
 
 ### 화면 구성(요약)
 |시작화면|
