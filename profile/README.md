@@ -59,9 +59,9 @@
 
 
 
-| 스플래시 | 로그인 | 홈 (메인) | 위치 기능 |
-|:---:|:---:|:---:|:---:|
-| [스플래시 시연](https://github.com/user-attachments/assets/719ee01d-7e0e-4b10-a20d-dd082f24436f) | [로그인 시연](https://github.com/user-attachments/assets/bbb) | [홈 시연](https://github.com/user-attachments/assets/ccc) | [위치 기능](https://github.com/user-attachments/assets/ddd) |
+|                                                                                    메인화면                                                                                     | 로그인 | 홈 (메인) | 위치 기능 |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:|:---:|:---:|
+| [![메인화면](https://github.com/user-attachments/assets/2909b663-9691-416d-b004-054771af9f83)](https://github.com/user-attachments/assets/719ee01d-7e0e-4b10-a20d-dd082f24436f) | [로그인 시연](https://github.com/user-attachments/assets/bbb) | [홈 시연](https://github.com/user-attachments/assets/ccc) | [위치 기능](https://github.com/user-attachments/assets/ddd) |
 
 | 영상 메인 | 영상 상세 | 신고 기능 | 타 유저 프로필 |
 |:---:|:---:|:---:|:---:|
