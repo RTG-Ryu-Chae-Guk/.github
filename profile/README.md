@@ -55,6 +55,9 @@
   </table>
 </div>
 
+### 📺 시연 영상
+<table align="center"> <tr> <td align="center"><img src="이미지_URL_1" width="150"/><br/>스플래시</td> <td align="center"><img src="이미지_URL_2" width="150"/><br/>로그인</td> <td align="center"><img src="이미지_URL_3" width="150"/><br/>홈 (메인)</td> <td align="center"><img src="이미지_URL_4" width="150"/><br/>홈 위치 기능 on/off</td> </tr> <tr> <td align="center"><img src="이미지_URL_5" width="150"/><br/>보관함</td> <td align="center"><img src="이미지_URL_6" width="150"/><br/>릴스 1</td> <td align="center"><img src="이미지_URL_7" width="150"/><br/>릴스 신고</td> <td align="center"><img src="이미지_URL_8" width="150"/><br/>프로필</td> </tr> </table>
+
 ### 화면 구성(요약)
 |시작화면|
 |:---:|
