@@ -29,10 +29,15 @@
 
 <br />
 사용 데이터
+<br />
 1.서울시 실시간 도시 데이터(서울 열린데이터 광장)
+<br />
 2.서울시 상권분석 데이터
+<br />
 3.국가교통정보센터(CCTV화상자료)
+<br />
 4.국세청_사업자등록정보 진위확인 및 상태조회 서비스
+<br />
 5.국토교통부_상업업무용 부동산 매매 실거래가 자료
 
 <br />
@@ -76,7 +81,7 @@
 
 |맵1|
 |:---:|
-|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%A41.png?raw=true" width="100%"/>|
+|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%A41.png?raw=true" width="1600px"/>|
 
 |맵2(도로소통상황)|
 |:---:|
@@ -218,7 +223,7 @@
 <br />
 
 ## 💁‍♂️ 프로젝트 팀원
-|Backend/Frontend|Frontend|Backend|Backend|
+|Backend/Frontend|Backend|Backend|
 |:---:|:---:|:---:|:---:|
 | ![](https://avatars.githubusercontent.com/u/39736916?v=4)| ![](https://avatars.githubusercontent.com/u/121941036?v=4)| ![](https://avatars.githubusercontent.com/u/170619611?v=4)|
 |[이동국](https://github.com/leedongguk)|[류승환](https://github.com/Federico-15)|[김채](https://github.com/chaeelin)|
