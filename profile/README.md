@@ -45,10 +45,15 @@
 ### 프로젝트 정보
 |요약|
 |:---:|
-|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C1.png?raw=true" width="100%"/>|
-|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C2.png?raw=true" width="100%"/>|
-|<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C3.png?raw=true" width="100%"/>|
-<br />
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C1.png?raw=true" width="300"/></td>
+      <td><img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C2.png?raw=true" width="300"/></td>
+      <td><img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%B3%B4%EA%B3%A0%EC%84%9C3.png?raw=true" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 ### 화면 구성(요약)
 |시작화면|
