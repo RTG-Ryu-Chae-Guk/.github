@@ -42,11 +42,11 @@
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B4.png?raw=true" width="100%"/>|
 
-|시작화면2|
+|시작화면2(AI검색)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B43.png?raw=true" width="100%"/>|
 
-|시작화면3|
+|시작화면3(AI답변)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%ED%99%88%ED%99%94%EB%A9%B4%205.png?raw=true" width="100%"/>|
 
@@ -54,7 +54,7 @@
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot1.png?raw=true" width="100%"/>|
 
-|AI BOT2|
+|AI BOT2(AI뉴스분석 및 뉴스API)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot2.png?raw=true" width="100%"/>|
 
@@ -62,7 +62,7 @@
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot3.png?raw=true" width="100%"/>|
 
-|AI BOT4|
+|AI BOT4(AI상권추천)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/aibot4.png?raw=true" width="100%"/>|
 
@@ -70,27 +70,27 @@
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%A41.png?raw=true" width="100%"/>|
 
-|맵2|
+|맵2(도로소통상황)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B52.png?raw=true" width="100%"/>|
 
-|맵3|
+|맵3(상권 실거래가)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B53.png?raw=true" width="100%"/>|
 
-|맵4|
+|맵4(소상공인을 위한 영상컨텐츠)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B54.png?raw=true" width="100%"/>|
 
-|맵5|
+|맵5(CCTV 마커)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B55.png?raw=true" width="100%"/>|
 
-|맵6|
+|맵6(실시간 CCTV)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B56.png?raw=true" width="100%"/>|
 
-|맵7|
+|맵7(실시간 뜨는 업종)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B57.png?raw=true" width="100%"/>|
 
@@ -98,11 +98,11 @@
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B58.png?raw=true" width="100%"/>|
 
-|맵9|
+|맵9(유동인구 폴리곤)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B59.png?raw=true" width="100%"/>|
 
-|맵10|
+|맵10(상권분석 및 비교)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B510.png?raw=true" width="100%"/>|
 
@@ -130,7 +130,7 @@
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B516.png?raw=true" width="100%"/>|
 
-|맵17|
+|맵17(PDF 저장)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B517.png?raw=true" width="100%"/>|
 
@@ -138,7 +138,7 @@
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B518.png?raw=true" width="100%"/>|
 
-|맵19|
+|맵19(상권 로드뷰)|
 |:---:|
 |<img src="https://github.com/RTG-Ryu-Chae-Guk/.github/blob/main/image/%EB%A7%B519.png?raw=true" width="100%"/>|
 
